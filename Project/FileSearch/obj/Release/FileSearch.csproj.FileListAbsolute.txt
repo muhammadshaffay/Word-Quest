@@ -1,0 +1,10 @@
+C:\Users\Shafay\Desktop\20i1824_20i2337_20i2391_AI-K_Assignment4\FileSearch\FileSearch\bin\Release\FileSearch.exe.config
+C:\Users\Shafay\Desktop\20i1824_20i2337_20i2391_AI-K_Assignment4\FileSearch\FileSearch\bin\Release\FileSearch.exe
+C:\Users\Shafay\Desktop\20i1824_20i2337_20i2391_AI-K_Assignment4\FileSearch\FileSearch\bin\Release\FileSearch.pdb
+C:\Users\Shafay\Desktop\20i1824_20i2337_20i2391_AI-K_Assignment4\FileSearch\FileSearch\obj\Release\FileSearch.Form1.resources
+C:\Users\Shafay\Desktop\20i1824_20i2337_20i2391_AI-K_Assignment4\FileSearch\FileSearch\obj\Release\FileSearch.Form2.resources
+C:\Users\Shafay\Desktop\20i1824_20i2337_20i2391_AI-K_Assignment4\FileSearch\FileSearch\obj\Release\FileSearch.Form3.resources
+C:\Users\Shafay\Desktop\20i1824_20i2337_20i2391_AI-K_Assignment4\FileSearch\FileSearch\obj\Release\FileSearch.Properties.Resources.resources
+C:\Users\Shafay\Desktop\20i1824_20i2337_20i2391_AI-K_Assignment4\FileSearch\FileSearch\obj\Release\FileSearch.csproj.GenerateResource.Cache
+C:\Users\Shafay\Desktop\20i1824_20i2337_20i2391_AI-K_Assignment4\FileSearch\FileSearch\obj\Release\FileSearch.exe
+C:\Users\Shafay\Desktop\20i1824_20i2337_20i2391_AI-K_Assignment4\FileSearch\FileSearch\obj\Release\FileSearch.pdb
